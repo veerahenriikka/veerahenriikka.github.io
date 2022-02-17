@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Raleway:wght@100&display=swap');
+
+
+body{
+    background:rgb(160, 156, 156);
+}
+
+
+
+#nav-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+    background:rgb(70, 43, 56);
+    height: 50px;
+    margin-top:5px;
+    border: 3px solid rgb(88, 67, 83);
+
+}
+
+a:hover{
+    color:rgb(173, 120, 173);
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    text-shadow: 2px 2px rgb(75, 74, 74);
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 12px;
+    margin-top:10px;
+
+}
+
+#main-container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:right;
+    background:rgb(88, 67, 83);
+    width: 85%;
+    height: 80vh;
+    margin:auto;
+    margin-top: 30px;
+    flex-direction: column;
+    border: 3px solid rgb(139, 92, 114);
+    
+       
+      }
+
+
+
+
+
+
+.top-container {
+    background:rgb(143, 113, 131);
+    width: 30%;
+    margin:1px;
+    height:40vh;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 3px solid rgb(139, 92, 114);
+
+    
+}
+
+.bottom-container {
+    background:rgb(143, 113, 131);
+    width: 94%;
+    margin: 1px;
+    height: 25vh;
+    margin-top:30px;
+    margin-left: 40px;
+    border: 3px solid rgb(139, 92, 114);
+}
+
+h1{
+    font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+
+}
+
+div.scroll {
+    background-color: rgb(114, 90, 102);
+    width: 90%;
+    height: 35vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    padding: 20px;
+    color:rgb(189, 182, 182)
+
+    
+    
+      }
+   
+     
+  
+  
+
+  div.scroll2 {
+    background-color: rgb(114, 90, 102);
+    width: 97%;
+    height: 20vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    padding: 20px;
+    color:rgb(189, 182, 182);
+
+  }
