@@ -11,7 +11,7 @@ body{
     color: rgb(224, 219, 219);
     font-family: 'Satisfy', cursive;
     margin-top: 30px;
-    margin-left: 100px;
+    margin-left: 150px;
     text-shadow: 1px 1px #000000;
     
    
@@ -26,7 +26,7 @@ body{
     justify-content: center;
     background:rgb(70, 43, 56);
     height: 50px;
-    margin-top:8px;
+    margin-top:1px;
     border: 3px solid rgb(88, 67, 83);
 
 }
@@ -104,6 +104,7 @@ div.scroll {
     text-align: center;
     padding: 20px;
     color:rgb(189, 182, 182)
+    
 
     
     
