@@ -55,7 +55,7 @@ a{
     width: 85%;
     height: 80vh;
     margin:auto;
-    margin-top: 30px;
+    margin-top: 5px;
     flex-direction: column;
     border: 3px solid rgb(139, 92, 114);
     
@@ -69,11 +69,11 @@ a{
 
 .top-container {
     background:rgb(143, 113, 131);
-    width: 30%;
+    width: 50%;
     margin:1px;
     height:40vh;
     margin-top: 40px;
-    margin-left: 859px;
+    margin-left: 600px;
     border: 3px solid rgb(139, 92, 114);
 
     
@@ -98,7 +98,7 @@ h1{
 
 div.scroll {
     background-color: rgb(114, 90, 102);
-    width: 90%;
+    width: 94%;
     height: 35vh;
     overflow-x: hidden;
     overflow-y: auto;
