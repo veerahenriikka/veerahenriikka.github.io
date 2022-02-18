@@ -10,7 +10,7 @@ body{
     font-size: 70px;
     color: rgb(224, 219, 219);
     font-family: 'Satisfy', cursive;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-left: 150px;
     text-shadow: 1px 1px #000000;
     
@@ -26,8 +26,10 @@ body{
     justify-content: center;
     background:rgb(70, 43, 56);
     height: 50px;
-    margin-top:-35px;
+    margin-top:-20px;
     border: 3px solid rgb(88, 67, 83);
+    margin-left:-20px;
+    margin-right:-20px;
 
 }
 
@@ -50,11 +52,11 @@ a{
     display:flex;
     flex-wrap: wrap;
     justify-content:right;
-    background:rgb(87, 66, 80);
+    background:rgb(70, 43, 56);
     width: 85%;
     height: 80vh;
     margin:auto;
-    margin-top: 5px;
+    margin-top: -35px;
     flex-direction: column;
     border: 3px solid rgb(139, 92, 114);
 
