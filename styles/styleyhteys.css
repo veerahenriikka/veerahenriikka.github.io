@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 body{
-    background:rgb(160, 156, 156);
+    background:linear-gradient(35deg,rgb(207, 193, 203), rgb(182, 171, 156))
 }
 
 
