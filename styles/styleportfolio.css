@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Raleway:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruthie&display=swap');
 
 body{
-    background:linear-gradient(35deg,rgb(207, 193, 203), rgb(182, 171, 156))
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/lr/rm218-eye-08.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&auto=format&ixlib=js-2.2.1&s=a1e3e3ebc01f5076411fa5226655c1ae");
+   height: 400px;
+   width: 100%;
 }
 
 
 #Name{
-    font-size: 70px;
-    color: rgb(224, 219, 219);
-    font-family: 'Satisfy', cursive;
+    font-size: 90px;
+    color: rgb(39, 39, 39);
+    font-family: 'Ruthie', cursive;
     margin-top: 10px;
     margin-left: 215px;
     text-shadow: 1px 1px #000000;
@@ -56,7 +58,7 @@ a{
     width: 85%;
     height: 80vh;
     margin:auto;
-    margin-top: -35px;
+    margin-top: -40px;
     flex-direction: column;
     border: 3px solid rgb(139, 92, 114);
 
