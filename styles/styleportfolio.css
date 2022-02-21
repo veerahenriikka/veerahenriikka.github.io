@@ -94,3 +94,7 @@ div.scroll {
     margin-left: 25px;
     color:rgb(189, 182, 182);
   }
+
+  .scroll::-webkit-scrollbar {
+    display: none;
+  }
